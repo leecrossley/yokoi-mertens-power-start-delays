@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24412112.svg)](https://doi.org/10.5281/zenodo.24412112)
 
+This result is now maintained in [quadratic-mertens-first-crossings](https://github.com/leecrossley/quadratic-mertens-first-crossings/tree/main/results/yokoi-mertens-power-start-delays). This repository is archived and keeps its releases and DOI.
+
 Fix any interval of positive exponents, for example $1/2\le s\le20$. There are many Yokoi real quadratic fields in which every average with weight $(y/t)^s$ is positive at every real start from $2$ through $X$. Move the start to $4X$ and all those same averages are negative. The interval from $4X$ to $8X$ alone already gives a negative average for each exponent.
 
 For a large discriminant cutoff $D$, the scale $X$ is $2^{\lfloor c\sqrt{\log D/\log\log D}\rfloor}$. It grows faster than every fixed power of $\log D$ and slower than every fixed positive power of $D$. The fields lie in $(D/2,D]$. Their actual prime-ideal Mertens products stay above the main term through $T$, which can be as large as $\exp(c'(\log D)^{1/5})$ up to dyadic rounding. Their first dips occur before $8X$.
